@@ -1,6 +1,3 @@
-// TODO - Implement your tests in this file using testlib functions
-//Angeline Dorvil
-
 #include <stdio.h>
 #include <stdlib.h>
 
