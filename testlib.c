@@ -1,5 +1,3 @@
-// TODO - nothing, do not modify this file
-
 #include <stdlib.h>
 #include <stdio.h>
 #include "testlib.h"
