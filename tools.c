@@ -1,5 +1,3 @@
-// TODO - Implement the functions in this file
-//Angeline Dorvil
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
