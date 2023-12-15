@@ -1,5 +1,3 @@
-// TODO - nothing, do not modify this file
-
 #ifndef TESTLIB_H_INCLUDED
 #define TESTLIB_H_INCLUDED
 
